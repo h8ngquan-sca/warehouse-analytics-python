@@ -26,11 +26,6 @@ The goal is to transform raw WMS export data into **actionable insights** using 
 | **Volume** | ~571,000 outbound orders |
 | **Format** | CSV files (semicolon-separated), 1 file per month |
 
-**Data characteristics:**
-- Multi-seller, multi-channel fulfillment center
-- Channels include: Shopee, TikTok Shop, Lazada, Kiot, Pancake, and offline bookings
-- Carriers include: J&T, SPX, ViettelPost, GHN, Ahamove, and others
-
 ---
 
 ## 3. Tools & Libraries
